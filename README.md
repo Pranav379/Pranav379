@@ -1,5 +1,4 @@
-## Hi there 👋
-## My name is Pranav, here's a little bit about me!
+# Hey there, I'm Pranav! 👋 Here's a little bit about me:
 
 - 🔭 I’m currently working on a project predicting weather delays for Southwest Airlines.
 - 🌱 I’m currently learning more on Neural Networks, Data Science, and AI/ML
