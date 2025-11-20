@@ -7,4 +7,4 @@
 - 💬 Ask me about sports, fitness, and traveling! 
 - 📫 How to reach me: https://www.linkedin.com/in/p-gaddam/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been playing pickleball
+- ⚡ Fun fact: I've been playing pickleball consistently for a year
