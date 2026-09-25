@@ -1,7 +1,17 @@
-# Hey there, I'm Pranav! 👋 
+# Hi, I'm Pranav 👋
 
-I'm a MS Statistical Data Science student at Texas A&M passionate about using Data Science and AI/ML to solve real-world problems. 💻
+MS student in Statistical Data Science @ Texas A&M, focused on reinforcement learning and applied ML.
 
-Currently, I'm building reinforcement learning agents to play some of my favorite video games. 🤖
+## 🔭 Currently working on
+- Training RL agents (PPO / DQN, [your actual algorithms]) to play [specific game, e.g. "Atari Breakout" or "Super Mario Bros"] using [Gymnasium / Stable-Baselines3 / PyTorch]
+- [Any other active project, thesis, or research]
 
-In my free time, I enjoy playing pickleball, weightlifting, and watching movies. Feel free to reach me at [pranavb07@gmail.com](pranavb07@gmail.com)!
+## 🛠️ Tech Stack
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `Gymnasium` `Pandas` `SQL` `[others you actually use]`
+
+## 📌 Featured Projects
+- **[Project Name](link)** — one-line description of what it does and the result (e.g. "PPO agent achieving X score on Y environment")
+- **[Project Name](link)** — same format
+
+## 📫 Reach me
+[LinkedIn](link) · [Email](mailto:pranavb07@gmail.com) · [Portfolio/Website](link)
