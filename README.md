@@ -1,6 +1,6 @@
 # Hey there, I'm Pranav! 👋
 
-I'm a MS Statistical Data Science student at Texas A&M passionate about using Data Science and AI/ML to solve real-world problems. 💻
+I'm a MS Statistics & Data Science student at Texas A&M passionate about using Data Science and AI/ML to solve real-world problems. 💻
 
 Currently, I'm training RL agents to play FIFA. 🤖
 
